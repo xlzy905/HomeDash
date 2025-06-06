@@ -51,3 +51,5 @@ pnpm dev
 ## 同时也兼容了黑色模式！
 ![screen-shot-three](/.github/CleanShot3-new.png)
 ![screen-shot-four](/.github/CleanShot4-new.png)
+
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
